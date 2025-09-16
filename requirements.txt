@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.2.3
+streamlit==1.26.0
+spacy==3.6.1
+tqdm==4.66.1
+sqlite-utils==3.40
+python-dotenv==1.0.0
